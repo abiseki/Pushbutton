@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+#img{
+    width: 50%;
+}
+
+a {
+    color: inherit;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
